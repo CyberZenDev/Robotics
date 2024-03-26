@@ -1,0 +1,19 @@
+Instructions:
+
+Step 1 : Install Arduino IDE:
+
+	1 - Go to Arduino Software and select your operating system.
+	2 - Download the installer.
+	3 - Run the installer and follow the prompts to install Arduino IDE.
+	4 - Install any prompted drivers during the process.
+
+Step 2: Open Project Code:
+
+	1 - Once Arduino IDE is installed, open it.
+	2 - Locate the Project1Code.ino file.
+	3- Open the file within Arduino IDE.
+
+Step 3 : Upload to Arduino:
+	1 - Connect your Arduino board to your computer.
+	2 - In Arduino IDE, select the correct board and port from the Tools menu.
+	3 - Click the "Upload" button (or press Ctrl + U) to upload the code to your Arduino board.
